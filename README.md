@@ -9,3 +9,6 @@ mvn package -Dmaven.test.skip=true  -Dmaven.javadoc.skip=true -Dcheckstyle.skip
 
 打包 
 ./dev/make-distribution.sh --tgz  -Dmaven.test.skip=true  -Dmaven.javadoc.skip=true -Dcheckstyle.skip
+
+修改、编译过的源代码在release中
+下载以后解压，进入bin目录执行spark-shell 即可
