@@ -12,3 +12,10 @@ mvn package -Dmaven.test.skip=true  -Dmaven.javadoc.skip=true -Dcheckstyle.skip
 
 修改、编译过的源代码在release中
 下载以后解压，进入bin目录执行spark-shell 即可
+
+截图留念：
+2018-03-25
+![image](https://raw.githubusercontent.com/xcxzzx-1/PersonalSpark/master/images/spark01.png)
+![image](https://raw.githubusercontent.com/xcxzzx-1/PersonalSpark/master/images/spark02.png)
+![image](https://raw.githubusercontent.com/xcxzzx-1/PersonalSpark/master/images/spark03.png)
+![image](https://raw.githubusercontent.com/xcxzzx-1/PersonalSpark/master/images/spark04.png)
